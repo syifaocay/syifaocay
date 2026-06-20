@@ -54,7 +54,7 @@ A Portuguese bank faced low telemarketing efficiency — only **11.3%** of ~41,0
 
 **Tech Stack:** `XGBoost` `LightGBM` `NCR` `GridSearchCV` `Pearson Correlation` `Chi-Square` `Ordinal & One-Hot Encoding`
 
-📎 [View Project](#)
+📎 [View Project](https://github.com/jcdspurwadhika/JCDSAH-024_Delta)
 
 ---
 
@@ -71,7 +71,7 @@ A telecom company had no system to detect subscribers at risk of churning, leadi
 
 **Tech Stack:** `Scikit-learn` `Imbalanced-Learn` `SMOTE` `LightGBM` `GridSearchCV` `Stratified K-Fold`
 
-📎 [View Project](#)
+📎 [View Project](https://github.com/syifaocay/Customer-Churn-Prediction-Model)
 
 ---
 
@@ -87,7 +87,7 @@ A retail supermarket faced declining campaign ROI due to unclear customer target
 
 **Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Correlation Analysis`
 
-📎 [View Project](#)
+📎 [View Project](https://github.com/syifaocay/Analisa-Segment-Pelanggan-Supermarket)
 
 <br/>
 
