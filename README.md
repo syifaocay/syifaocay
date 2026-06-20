@@ -93,20 +93,17 @@ A retail supermarket faced declining campaign ROI due to unclear customer target
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
-```python
-skills = {
-    "Languages"      : ["Python", "SQL"],
-    "ML & Stats"     : ["Scikit-learn", "LightGBM", "XGBoost", "Imbalanced-Learn", "Statsmodels"],
-    "Data Wrangling" : ["Pandas", "NumPy"],
-    "Visualization"  : ["Matplotlib", "Seaborn", "Tableau", "Looker Studio"],
-    "Databases"      : ["MySQL"],
-    "Deployment"     : ["Streamlit", "GitHub", "VS Code"],
-    "ML Topics"      : ["Classification", "Regression", "Clustering", "Feature Engineering",
-                        "Hyperparameter Tuning", "Cross Validation", "Imbalanced Data Handling"]
-}
-```
+| Category | Technologies / Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Data Wrangling** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **ML & Stats** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) `LightGBM` `XGBoost` `Imbalanced-Learn` `Statsmodels` |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white) `Matplotlib` `Seaborn` |
+| **Deployment & Tools** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **ML Topics** | `Classification` • `Regression` • `Clustering` • `Feature Engineering` • `Hyperparameter Tuning` • `Cross Validation` • `Imbalanced Data Handling` |
 
 <br/>
 
@@ -114,19 +111,22 @@ skills = {
 
 ## 📚 Learning Roadmap
 
-Currently following the structured **Data Science & Machine Learning** curriculum at Purwadhika:
+### 🎓 Education & Professional Credentials
 
-| Topic | Status |
-|-------|--------|
+**Graduate of the Data Science & Machine Learning** structured curriculum at Purwadhika, with comprehensive expertise across the following domains:
+
+| Core Competencies & Domain Expertise | Status |
+|-------------------------------------|--------|
 | Supervised Learning — Regression & Classification | ✅ Completed |
+| Unsupervised Learning — Clustering, PCA | ✅ Completed |
 | Feature Engineering & Model Evaluation | ✅ Completed |
-| Imbalanced Classification (SMOTE, NCR, RUSBoost) | ✅ Completed |
+| Imbalanced Classification & Handling Techniques | ✅ Completed |
 | Ensemble Methods — Random Forest, Boosting, Stacking | ✅ Completed |
-| Unsupervised Learning — Clustering, PCA | 🔄 In Progress |
-| Time Series Forecasting (ARIMA, ACF/PACF) | ⏳ Upcoming |
-| Text Mining & NLP | ⏳ Upcoming |
-| Recommendation System | ⏳ Upcoming |
-| ML for Business & Deployment | ⏳ Upcoming |
+| ML for Business & Model Deployment | ✅ Completed |
+| Time Series Forecasting, NLP & Recommendation Systems | ✅ Completed |
+
+<br/>
+
 
 <br/>
 
