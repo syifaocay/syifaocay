@@ -25,13 +25,14 @@
 
 ## 👋 About Me
 
-Saya seorang **Data Analyst & Data Scientist** dengan latar belakang Teknik Informatika dan 2 tahun pengalaman di industri perbankan (BCA) sebagai Customer Service — yang memberi saya pemahaman mendalam tentang *business context* dan komunikasi dengan stakeholder.
+I'm a **Data Analyst & Data Scientist** with a Bachelor's degree in Informatics Engineering and a strong foundation in end-to-end machine learning pipelines — from data cleaning and EDA to model deployment. Currently deepening my expertise through the **Data Science & Machine Learning** program at Purwadhika Digital Technology School.
 
-Kini saya fokus membangun karier di bidang **Data Science & Machine Learning**, dengan kemampuan membangun pipeline ML end-to-end: dari data cleaning, EDA, feature engineering, hingga model deployment.
+My background as a career switcher gives me a distinct edge: I bring real-world **business context**, structured problem-solving, and strong stakeholder communication skills that most technical profiles don't have.
 
-- 🎓 Alumnus **Purwadhika Digital Technology School** — Data Science & Machine Learning
-- 🏦 2 tahun di **PT Bank Central Asia Tbk** — membangun business acumen & problem-solving skill
-- 🤖 Berpengalaman membangun model klasifikasi dengan **Scikit-learn, LightGBM, dan SMOTE**
+- 🎓 **Purwadhika Digital Technology School** — Data Science & Machine Learning (2025–2026)
+- 🎓 **Kampus Merdeka × Dicoding** — Machine Learning & Front End Web (2022)
+- 🎓 **Universitas Dian Nuswantoro** — Bachelor's in Informatics Engineering (2019–2023)
+- 🤖 Experienced in building ML pipelines with **Scikit-learn, LightGBM, XGBoost, and SMOTE**
 - 📍 Semarang, Indonesia
 
 <br/>
@@ -40,17 +41,18 @@ Kini saya fokus membangun karier di bidang **Data Science & Machine Learning**, 
 
 ## 🚀 Featured Projects
 
-### 🛒 Customer Segmentation Analysis — Supermarket Industry
-> *Unsupervised Learning | EDA | Business Intelligence*
+### 🏦 Bank Marketing Campaign — Deposit Subscription Prediction
+> *Classification | Imbalanced Data | Cost Optimization | Feb 2026*
 
-Retail supermarket mengalami penurunan ROI kampanye akibat targeting yang tidak tepat. Saya melakukan analisis end-to-end untuk mengidentifikasi segmen pelanggan bernilai tinggi.
+A Portuguese bank faced low telemarketing efficiency — only **11.3%** of ~41,000 contacted customers subscribed to term deposits, resulting in high operational costs with minimal return. I built a predictive ML model to identify high-potential customers *before* contact.
 
-**Key Findings:**
-- Korelasi income–spending sebesar **0.79** — pelanggan usia 40–69 dengan income ≥ €60K mendominasi revenue
-- **Wine (50.2%)** dan **Premium Meat (27.6%)** menyumbang 77.8% dari total revenue
-- **Campaign 5** adalah kampanye terbaik dengan rata-rata spend €1,617 per pelanggan
+**Key Results:**
+- Final model: **XGBoost + NCR resampling**, tuned with GridSearchCV
+- **F1-Score: 51.29%** — optimized to balance precision (cost efficiency) and recall (business opportunity)
+- **88.9% reduction** in telemarketing operational costs through targeted, data-driven outreach
+- Benchmarked **6 classifiers** × **6 imbalance-handling methods** via Stratified 5-Fold CV
 
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Correlation Analysis`
+**Tech Stack:** `XGBoost` `LightGBM` `NCR` `GridSearchCV` `Pearson Correlation` `Chi-Square` `Ordinal & One-Hot Encoding`
 
 📎 [View Project](#)
 
@@ -59,15 +61,31 @@ Retail supermarket mengalami penurunan ROI kampanye akibat targeting yang tidak 
 ### 📉 Customer Churn Prediction — Telecom Industry
 > *Classification | Imbalanced Data | ML Pipeline*
 
-Perusahaan telecom kehilangan revenue karena tidak ada sistem deteksi dini pelanggan yang akan churn. Saya membangun model prediksi end-to-end untuk mengidentifikasi subscriber berisiko.
+A telecom company had no system to detect subscribers at risk of churning, leading to undetected revenue loss. I built an end-to-end ML pipeline with early-warning capability.
 
 **Key Results:**
-- Model terbaik: **Logistic Regression + SMOTE + L1 Regularization**
-- Recall **88.37%** — berhasil mendeteksi **228 dari 258** pelanggan yang akan churn
+- Final model: **Logistic Regression + SMOTE + L1 Regularization**
+- Recall **88.37%** — detected **228 out of 258** potential churners
 - ROC-AUC **0.832**
-- Churn drivers utama: contract type, fiber optic service, dan tenure
+- Key churn drivers identified: contract type, fiber optic service, and tenure
 
 **Tech Stack:** `Scikit-learn` `Imbalanced-Learn` `SMOTE` `LightGBM` `GridSearchCV` `Stratified K-Fold`
+
+📎 [View Project](#)
+
+---
+
+### 🛒 Customer Segmentation Analysis — Supermarket Industry
+> *EDA | Correlation Analysis | Business Intelligence*
+
+A retail supermarket faced declining campaign ROI due to unclear customer targeting. I performed an end-to-end analysis to identify high-value segments and guide promotional strategy.
+
+**Key Findings:**
+- Income–spending correlation of **0.79** — top spenders aged 40–69 with income ≥ €60K drive the majority of revenue
+- **Wine (50.2%)** and **Premium Meat (27.6%)** together account for **77.8%** of total revenue
+- **Campaign 5** was the top performer with avg. spend of **€1,617** per customer
+
+**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Correlation Analysis`
 
 📎 [View Project](#)
 
@@ -79,14 +97,14 @@ Perusahaan telecom kehilangan revenue karena tidak ada sistem deteksi dini pelan
 
 ```python
 skills = {
-    "Languages"   : ["Python", "SQL"],
-    "ML & Stats"  : ["Scikit-learn", "LightGBM", "Imbalanced-Learn", "Statsmodels"],
-    "Data Wrangling": ["Pandas", "NumPy"],
-    "Visualization": ["Matplotlib", "Seaborn", "Tableau", "Looker Studio"],
-    "Databases"   : ["MySQL"],
-    "Deployment"  : ["Streamlit", "GitHub", "VS Code"],
-    "ML Topics"   : ["Classification", "Regression", "Clustering", "Feature Engineering",
-                     "Hyperparameter Tuning", "Cross Validation", "Imbalanced Data"]
+    "Languages"      : ["Python", "SQL"],
+    "ML & Stats"     : ["Scikit-learn", "LightGBM", "XGBoost", "Imbalanced-Learn", "Statsmodels"],
+    "Data Wrangling" : ["Pandas", "NumPy"],
+    "Visualization"  : ["Matplotlib", "Seaborn", "Tableau", "Looker Studio"],
+    "Databases"      : ["MySQL"],
+    "Deployment"     : ["Streamlit", "GitHub", "VS Code"],
+    "ML Topics"      : ["Classification", "Regression", "Clustering", "Feature Engineering",
+                        "Hyperparameter Tuning", "Cross Validation", "Imbalanced Data Handling"]
 }
 ```
 
@@ -94,19 +112,21 @@ skills = {
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learning Roadmap
 
-Mengikuti kurikulum **Data Science & Machine Learning** di Purwadhika, saya sedang mendalami:
+Currently following the structured **Data Science & Machine Learning** curriculum at Purwadhika:
 
 | Topic | Status |
 |-------|--------|
-| Supervised Learning — Regression & Classification | ✅ Done |
-| Feature Engineering & Model Evaluation | ✅ Done |
-| Ensemble Methods (Random Forest, Boosting, Stacking) | 🔄 In Progress |
+| Supervised Learning — Regression & Classification | ✅ Completed |
+| Feature Engineering & Model Evaluation | ✅ Completed |
+| Imbalanced Classification (SMOTE, NCR, RUSBoost) | ✅ Completed |
+| Ensemble Methods — Random Forest, Boosting, Stacking | ✅ Completed |
 | Unsupervised Learning — Clustering, PCA | 🔄 In Progress |
-| Time Series Forecasting (ARIMA) | ⏳ Upcoming |
+| Time Series Forecasting (ARIMA, ACF/PACF) | ⏳ Upcoming |
 | Text Mining & NLP | ⏳ Upcoming |
 | Recommendation System | ⏳ Upcoming |
+| ML for Business & Deployment | ⏳ Upcoming |
 
 <br/>
 
@@ -130,7 +150,7 @@ Mengikuti kurikulum **Data Science & Machine Learning** di Purwadhika, saya seda
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syifaul-umam-a38057214/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Syifaul000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syifaocay)
 
