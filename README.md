@@ -1,13 +1,10 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=130&section=header&text=Ahmad%20Syifaul%20Umam&fontSize=38&fontColor=e2e8f0&fontAlignY=60&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=80&descSize=15&descColor=94a3b8" />
-
 </div>
 
 <br/>
 
 <div align="center">
-
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3b82f6)
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=3b82f6)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=f97316)
@@ -16,7 +13,14 @@
 ![Looker](https://img.shields.io/badge/Looker%20Studio-0f172a?style=for-the-badge&logo=looker&logoColor=f59e0b)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=ef4444)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
+</div>
 
+<br/>
+
+<div align="center">
+  <a href="https://ahmadsyifaul.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit%20Now-0f172a?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio Website"/>
+  </a>
 </div>
 
 <br/>
@@ -24,7 +28,6 @@
 ---
 
 ## 👋 About Me
-
 I'm a **Data Analyst & Data Scientist** with a Bachelor's degree in Informatics Engineering and a strong foundation in end-to-end machine learning pipelines — from data cleaning and EDA to model deployment. Currently deepening my expertise through the **Data Science & Machine Learning** program at Purwadhika Digital Technology School.
 
 My background as a career switcher gives me a distinct edge: I bring real-world **business context**, structured problem-solving, and strong stakeholder communication skills that most technical profiles don't have.
@@ -126,8 +129,6 @@ A retail supermarket faced declining campaign ROI due to unclear customer target
 | Time Series Forecasting, NLP & Recommendation Systems | ✅ Completed |
 
 <br/>
-
-
 <br/>
 
 ---
@@ -135,11 +136,8 @@ A retail supermarket faced declining campaign ROI due to unclear customer target
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=syifaocay&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=94a3b8" />
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaocay&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=60a5fa&text_color=94a3b8" />
-
 </div>
 
 <br/>
@@ -149,11 +147,10 @@ A retail supermarket faced declining campaign ROI due to unclear customer target
 ## 🤝 Let's Connect
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syifaul-umam-a38057214/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Syifaul000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syifaocay)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ahmadsyifaul.netlify.app/)
 </div>
 
 <br/>
