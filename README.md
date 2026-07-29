@@ -1,21 +1,18 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=130&section=header&text=Ahmad%20Syifaul%20Umam&fontSize=38&fontColor=e2e8f0&fontAlignY=60&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=80&descSize=15&descColor=94a3b8" />
 </div>
-
 <br/>
-
 <div align="center">
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3b82f6)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=3b82f6)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=f97316)
-![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=60a5fa)
-![Tableau](https://img.shields.io/badge/Tableau-0f172a?style=for-the-badge&logo=tableau&logoColor=f59e0b)
-![Looker](https://img.shields.io/badge/Looker%20Studio-0f172a?style=for-the-badge&logo=looker&logoColor=f59e0b)
-![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=ef4444)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
+<image-card alt="Python" src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3b82f6" ></image-card>
+<image-card alt="SQL" src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=3b82f6" ></image-card>
+<image-card alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=f97316" ></image-card>
+<image-card alt="Pandas" src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=60a5fa" ></image-card>
+<image-card alt="Tableau" src="https://img.shields.io/badge/Tableau-0f172a?style=for-the-badge&logo=tableau&logoColor=f59e0b" ></image-card>
+<image-card alt="Looker" src="https://img.shields.io/badge/Looker%20Studio-0f172a?style=for-the-badge&logo=looker&logoColor=f59e0b" ></image-card>
+<image-card alt="Streamlit" src="https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=ef4444" ></image-card>
+<image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" ></image-card>
 </div>
 
-<br/>
 
 <div align="center">
   <a href="https://ahmadsyifaul.netlify.app/">
