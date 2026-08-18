@@ -133,8 +133,8 @@ A retail supermarket faced declining campaign ROI due to unclear customer target
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syifaocay&show_icons=true&theme=tokyonight&hide_border=false" alt="Ahmad Syifaul Umam GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=syifaocay&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=syifaocay&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syifaocay&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
