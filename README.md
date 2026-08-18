@@ -132,25 +132,29 @@ A retail supermarket faced declining campaign ROI due to unclear customer target
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=syifaocay&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=94a3b8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaocay&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=60a5fa&text_color=94a3b8" />
-</div>
-
-<br/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syifaocay&show_icons=true&theme=tokyonight&hide_border=false" alt="Ahmad Syifaul Umam GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=syifaocay&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syifaul-umam-a38057214/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Syifaul000@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syifaocay)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ahmadsyifaul.netlify.app/)
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-syifaul-umam-a38057214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Syifaul000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/syifaocay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://ahmadsyifaul.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=80&section=footer" />
